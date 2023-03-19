@@ -1,0 +1,7 @@
+Installation complete.
++-------------------+------------------+
+| Default Email     | Default Password |
++-------------------+------------------+
+| email@example.com | password         |
++-------------------+------------------+
+First things first, head to http://localhost/canvas/login and update your credentials.
